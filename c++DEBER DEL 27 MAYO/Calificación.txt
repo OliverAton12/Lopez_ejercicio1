@@ -1,0 +1,5 @@
+Tarea 06:
+- No debía usar bucle while
+- No debía usar switch
+
+Calificación: 3/4
